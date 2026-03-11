@@ -5,7 +5,7 @@ This repository contains the MATLAB code used to simulate a spatial predator–p
 The code is associated with the manuscript:
 
 **Rivera-Estay et al.**
-*Asymmetric dispersal shapes spatial structure and dynamical regimes in predator–prey metacommunities*  
+*Dispersal asymmetry and dispersal distance shape dynamics and extinction risk in predator–prey metacommunities*  
 Submitted to *Journal of Mathematical Biology*.
 
 ## Description
