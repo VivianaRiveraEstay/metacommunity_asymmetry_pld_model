@@ -4,15 +4,16 @@ This repository contains the MATLAB code used to simulate a spatial predator–p
 
 The code is associated with the manuscript:
 
-**Rivera-Estay et al.**
+**Rivera-Estay et al.**  
 *Dispersal asymmetry and dispersal distance shape dynamics and extinction risk in predator–prey metacommunities*  
 Submitted to *Journal of Mathematical Biology*.
 
 ## Description
 
-The model describes predator and prey dynamics across multiple spatial patches connected by larval dispersal. Connectivity between patches is represented by species-specific numerical connectivity matrices that depend on pelagic larval duration (PLD) and directional transport asymmetry.
+The model describes predator–prey dynamics across multiple spatial patches connected by larval dispersal. Connectivity between patches is represented by species-specific numerical connectivity matrices that depend on pelagic larval duration (PLD) and directional transport asymmetry.
 
-The simulations explore how:
+The simulations explore how
+
 - dispersal asymmetry,
 - interspecific mismatches in dispersal symmetry, and
 - dispersal distance (PLD)
@@ -24,6 +25,7 @@ affect spatial population structure, dynamical regimes, and extinction risk.
 - `run_model.m` — main script used to run simulations and compute metrics.
 - `ecosystem_model.m` — system of differential equations describing the predator–prey dynamics.
 - `generate_asymmetric_connectivity.m` — function used to generate asymmetric connectivity matrices.
+- `plot_matrix.m` — script used to generate the connectivity matrix figures shown in the manuscript.
 
 ## Requirements
 
