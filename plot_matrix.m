@@ -1,6 +1,6 @@
 clc; clear; close all;
 
-N = 20;
+N = 30;
 PLD_values = [10 30 60];
 mu_values  = [0 5];
 
